@@ -41,6 +41,181 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "name": {},
+      "id": 12
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "id": 13
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "id": 14
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "id": 15
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "id": 16
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 17
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 18
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 19
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 20
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 21
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 22
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 23
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 24
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 25
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 26
+    },
+    {
+      "name": {
+        "newPlantName": ""
+      },
+      "image": {
+        "newPlantImage": ""
+      },
+      "price": {
+        "newPlantPrice": ""
+      },
+      "id": 27
     }
   ]
 }
